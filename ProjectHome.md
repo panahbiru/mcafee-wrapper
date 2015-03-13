@@ -1,0 +1,1 @@
+Untuk aplikasi yang khusus dibahas kali ini adalah aplikasi wrapper / perantara untuk Engine antivirus McAfee. Aplikasi wrapper ini sebenarnya adalah satu dari banyak modul dalam aplikasi anti-malware yang sedang kami kembangkan, dan sengaja kami publish dulu karen sudah kami anggap telah final dan butuh pengembangan lebih cepat dengan di open-source kan.
